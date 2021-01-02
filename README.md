@@ -2,6 +2,8 @@
 
 Efficiently mark multiple words in a page.
 
+## Introduction
+
 20190707:
 - Add options page
 - Add "Add Keyword" and "Remove Keyword" into context menu
@@ -24,3 +26,19 @@ Efficiently mark multiple words in a page.
 - Organize code
 - Change UI (based on Multi-Highlight)
 - Change extension icon
+
+
+Setup:
+```
+Fork this repository
+
+Download code on your Local Machine 
+
+Unpack this Extension in Chrome Dev Mode and Run the Extension
+```
+
+## License 
+
+[MIT](https://github.com/web-codegrammer/Launcher-Chrome-Extension/blob/main/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2020
