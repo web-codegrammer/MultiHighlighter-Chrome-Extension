@@ -1,6 +1,6 @@
 # Multi-Highlight
 
-Efficiently mark multiple words in a page.
+Efficiently marks the multiple words in a Webpage.
 
 ## Introduction
 
