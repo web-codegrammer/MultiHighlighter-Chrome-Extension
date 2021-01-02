@@ -4,17 +4,17 @@ Efficiently marks the multiple words in a Webpage.
 
 ## Introduction
 
-20190707:
+> 20190707:
 - Add options page
 - Add "Add Keyword" and "Remove Keyword" into context menu
 
-20190609:
+> 20190609:
 - Add "paste keywords to new pages" mode
 
-20190503:
+> 20190503:
 - Minimize extension size
 
-20190110:
+> 20190110:
 - Highlight any strings (not just full word)
 - Add Instant Search (highlight on-the-fly)
 - Add customizable delimiter
@@ -22,7 +22,7 @@ Efficiently marks the multiple words in a Webpage.
 - UI changes
 - Add Ctrl+Shift+F as default shortcut
 
-20181231:
+> 20181231:
 - Organize code
 - Change UI (based on Multi-Highlight)
 - Change extension icon
