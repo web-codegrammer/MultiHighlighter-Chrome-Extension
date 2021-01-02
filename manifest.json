@@ -1,0 +1,26 @@
+{
+
+  "manifest_version": 2,
+  "name": "Highlighter",
+  "version": "1.0",
+  "description": "Highlights multiple words in a page.",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "icons": { 
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
+  "content_scripts": [ {
+      "matches": [ "<all_urls>" ],
+      "js": [ "jquery/jquery.js", "jquery/jquery.highlight.js", "popup.js" ],
+      "css": [ "highlight.css" ]
+   } ],
+  "background": {
+    "scripts": [ "lib.js", "background.js" ]
+  },
+  "permissions": [
+  "activeTab", "http://*/*", "https://*/*", "storage", "contextMenus"
+  ]
+}
