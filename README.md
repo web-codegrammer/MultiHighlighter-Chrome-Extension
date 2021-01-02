@@ -39,6 +39,6 @@ Unpack this Extension in Chrome Dev Mode and Run the Extension
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Launcher-Chrome-Extension/blob/main/LICENSE)
+[MIT](https://github.com/web-codegrammer/MultiHighlighter-Chrome-Extension/blob/main/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2020
